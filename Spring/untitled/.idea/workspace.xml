@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0674438-c05c-4e4a-965a-4f4d2b4b5278" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/controller/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/static/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HyTi9pktpJber4HvphIZO4fKnP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0674438-c05c-4e4a-965a-4f4d2b4b5278" name="Changes" comment="" />
+      <created>1669256449292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669256449292</updated>
+      <workItem from="1669256452679" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
